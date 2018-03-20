@@ -1,0 +1,90 @@
+1.	What are examples of the types of projects you have deployed to Azure?
+I deployed API projects, .Net and .Net Core, as App Services. Recently I worked and deployed a Service Fabric Restful API build with .net core 2. Also, I deployed some web jobs based on Hangfire. 
+
+2.	How do you classify your senior-ness as a developer? What are your development strengths?
+I have 10 years of experience working with web technologies, mostly in .Net and Java platforms. I consider that my strengths include my high degree of responsibility and commitment with my work. During my years of developer, I worked in solo projects and team projects as well so I'm very comfortable with this.
+
+3.	What are your top 1-2 favorite editor(s)?
+Visual Studio and Visual Studio Code.
+
+4.	Have you ever done a pull request?
+Yes, in my company is the main CR mechanism.
+
+5.	Have you ever had a chance to use TDD? Have you found it to be helpful? If so, when does it work best for you?
+In my projects I always do Unit Testing although I have never used TDD. Is only a personal preference.
+
+6.	Have you been given the opportunity to use tools like ReSharper? What did you like about it?
+No, I have not had it. I know that is possible to install it as extension in Visual Studio but I have not had the opportunity to use it.
+
+7.	Do you prefer working directly with the business people? Or do you find it's best to have a go-between run interference?
+I am ok working either way.
+
+8.	Have you ever used web.config transformations? If not, do you know what they are good for?
+No, I haven’t. Yes, I think that web.config transformations are related to the deployment process between different environments and variables configuration. 
+
+9.	Can you tell me anything about slots in terms of Azure? If not, based on what you just googled, how would you use them in your next Azure project?
+Yes, I worked sometimes with Azure slots, but not much deeper. I think that this kind of work is more related to DevOps engineer but in many cases are we, the app developers, who made all this configs. 
+
+The Azure slots is a mechanism for guarantee 100 % availability of the website. You can configure and deploy the web app to the slots, test live app, make changes, downgrade the web app and the site will always online and available. Also, we can share, for example, the prod and dev environments configurations.
+
+10.	Have you worked with any of the cloud providers (Heroku, AWS, Azure, Google)?
+I have worked with Azure and AWS.
+
+11.	Can you explain what DevOps and/or continuous integration is, and some of the benefits?
+DevOps pursuit the idea of the automation and monitoring of the complete development process. DevOps blurry the line between Devs and Ops guys letting both roles to work together on seamless pushing changes into production environments.
+
+Continuous integration tends to make more quickly integrations of the software, trying to find errors in each iteration.
+
+Both process contribute to a better development process, more organize and better measured. Also makes every product launch more confident and trustworthy, removing a lot of errors that will be detected during these both process.
+
+12.	Are you technology agnostic? Or are you pretty strict when it comes to things like Mac vs Windows, or AWS vs Azure?
+I would to say that I'm technology agnostic, but the fact is that all my life I have been working with Windows OS.
+About other things, yes I’m technology agnostic. About the cloud, I have worked in projects with Azure and also in others with AWS.
+
+13.	What are some of your more advanced SQL querying abilities (i.e., like what keywords or commands, etc)?
+I'm able to do almost any query using SQL.
+
+14.	Do you happen to know what TypeScript is and why it's gotten popular? How does it differ from JS?
+Yes, in fact I used Typescript in my work with frameworks like Angular and Aurelia. Typescript is a JS superset with features like static typing, classes, interfaces.
+
+15.	How comfortable are you in working a project that involves touching some CSS and HTML?
+I’m very comfortable working with CSS and HTML. I have worked in many projects as a full stack developer.
+
+16.	Can you explain the diff b/t relational databases and NoSQL? What are some NoSQL platforms that you have familiarity with?
+The principal differences are about the scalability (SQL: vertically, NoSQL: horizontally), structure (SQL: tables, NoSQL: document-based, key-value pairs, graph databases or wide-column stores) and the language they use.
+I have worked a lot with MongoDB.
+
+17.	Can you try to explain GPG, SSL or public/private key encryption?
+I think that GPG is the evolution of PGP but I have not worked with it.
+SSL is the acronym of Secure Socket Layer and is widely used through certificates in Web Apps.
+Public/private key encryption is another basic mechanism to guaranteed some level of security in apps. For example, I have used this mechanism to access VM hosted in AWS. 
+I have to say that I’m not a specialist on this area.
+
+18.	Do you know anything about "secure coding" practices?
+Yes, I know. Secure coding Is about guards the code against the accidental introduction of security vulnerabilities. Some of the common and best practices on this theme are: validate inputs from all untrusted sources, keep the design as simple and small as possible, among others.
+
+19.	Can you authenticate to GitHub using SSH?
+Yes, sure, I can. I have worked also with bitbucket and is possible too.
+
+20.	Can you explain what REST sorta kinda means?
+REpresentational State Transfer is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other. Has been the default standard protocol to implement API’s from some years ago to now. 
+
+21.	How enthusiastic would you be if we asked to pay you to take some training courses on Udemy?
+No problem, I'm always learning.
+
+22.	How many of these platforms / languages / frameworks do you have experience with? (organize your response in order or preference)
+Node Typescript Angular / React / Vue Spark Hadoop SQL Excel Python Pandas R Linux Mac Windows Jasmine Docker Kubernetes .NET C# NUnit Go PostgreSQL MySQL SQL Server bash shell scripts PowerShell MongoDB Azure AWS Google Cloud Platform
+1-	Windows
+2-	C#
+3-	.NET
+4-	Typescript
+5-	Angular
+6-	React
+7-	Node
+8-	SQL Server
+9-	PostgreSQL
+10-	MySQL
+11-	MongoDB
+12-	Azure
+13-	AWS
+14-	Docker
